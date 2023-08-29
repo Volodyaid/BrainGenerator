@@ -27,6 +27,12 @@ P.S. Полученные с помощью приведенной програ�
 возможных паролей. К программе прилагаю файл wordlist2.txt со списком из 2048 английских слов,  
 используемых для генерации сид фраз многими приложениями, стандартное количество слов - 12, но  
 необходимо ещё выполнение условий их валидности.  
+
+Для запуска программы  в Linux необходимо создать папку в корневом каталоге, туда поместить  
+файл wordlist.txt и программу BrainGeneratorV3, далее зайти в этот каталог и ввести команду:  
+./BrainGeneratorV3  
+Дальнейшие действия описаны выше.  
+
 ...............................................................................................  
 En:  
 The program is designed to generate sentences (phrases).  
@@ -56,3 +62,8 @@ P.S. The phrases obtained with the help of the above program can be used as poss
 I attach a file to the program wordlist2.txt with a list of 2048 English words used to generate  
 LED phrases by many applications, the standard number of words is 12, but it is still necessary  
 to fulfill the conditions of their validity.  
+
+To run the program on Linux, you need to create a folder in the root directory, put  
+the file there wordlist.txt and the BrainGeneratorV3 program, then go to this directory and enter the command:  
+./BrainGeneratorV3   
+Further actions are described above  
