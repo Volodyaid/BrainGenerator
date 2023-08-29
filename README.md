@@ -35,7 +35,6 @@ When you start the program, you need to enter the required number of generations
 
 Enter the number of generations:   
 
-En:  
 Next, you need to specify how many lines to randomly use when  
 generating sentences (phrases)  
 
