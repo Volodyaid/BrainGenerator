@@ -1,17 +1,17 @@
 # BrainGenerator
+Ru:
 Программа предназначена для генерации предложений (фраз).  
 
 При запуске программы вам необходимо ввести нужное количество генераций  
 
 Enter the number of generations:   
-
-Ru:  
+  
 Далее вам необходимо указать, какое количество строк случайно использовать при  
 генерации предложений (фраз)  
 
 How many values to take from the file:  
 
-Например, если вы выберете значение 5, тогда у вас в файле brain.txt будут сохраняться  
+Например, если вы выберете значение 5, у вас в файле brain.txt будут сохраняться  
 примерно такие рандомные значения, как в примере:  
 
 @ iii валор 2 №   
@@ -24,7 +24,7 @@ yyy nnn 9 dkjrhgkbvd @
 9 валор 8 @ 4   
 
 P.S. Полученные с помощью приведенной программы сид фразы можно использовать в качестве  
-возможных паролей. К программе прилагаю файл wordlist1.txt со списком из 2048 английских слов,  
+возможных паролей. К программе прилагаю файл wordlist2.txt со списком из 2048 английских слов,  
 используемых для генерации сид фраз многими приложениями, стандартное количество слов - 12, но  
 необходимо ещё выполнение условий их валидности.  
 ...............................................................................................  
@@ -54,6 +54,6 @@ yyy nnn 9 dkjrhgkbvd @
 9 валор 8 @ 4   
 
 P.S. The phrases obtained with the help of the above program can be used as possible passwords.  
-I attach a file to the program wordlist1.txt with a list of 2048 English words used to generate  
+I attach a file to the program wordlist2.txt with a list of 2048 English words used to generate  
 LED phrases by many applications, the standard number of words is 12, but it is still necessary  
 to fulfill the conditions of their validity.  
