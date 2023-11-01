@@ -67,3 +67,7 @@ To run the program on Linux, you need to create a folder in the root directory, 
 the file there wordlist.txt and the BrainGeneratorV3 program, then go to this directory and enter the command:  
 ./BrainGeneratorV3   
 Further actions are described above  
+
+Dec_to_hex_to_dec.exe:
+The name of the files should be the same (dec.txt or hex.txt )
+
